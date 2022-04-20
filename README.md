@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @aaguirre7 
+<a>
+<img align="center"src="./img/pixels-neon.gif">
+</a>
+
+- 👋 Hi, I’m @aaguirre7
 - 👀 DevOPs Engineer
 - 🌱 Full Stack Dev
 
