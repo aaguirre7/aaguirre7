@@ -6,8 +6,9 @@
 - 👀 DevOPs Engineer
 - 🌱 Full Stack Dev
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=aaguirre7&theme=dark&hide=contribs&show_icons=true"/></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaguirre7&theme=dark"/> </a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/?username=aaguirre7&theme=dark&hide=contribs&show_icons=true"/>
+<br></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaguirre7&theme=dark"/> </a>
 
 <!---
 aaguirre7/aaguirre7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
