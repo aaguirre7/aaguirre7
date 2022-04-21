@@ -3,10 +3,12 @@
 
 </a>
 <br>
+
 <a alaign="center">
 - 👋 Hi, I’m @aaguirre7
 - 👀 DevOPs Engineer
 - 🌱 Full Stack Dev
+</a>
 
 <a href="https://github.com/aaguirre7/aaguirre7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaguirre7" />
@@ -21,7 +23,7 @@
 
 
 <a href="https://github.com/aaguirre7/popcorn_time">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaguirre7&repo=popcorn_time_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaguirre7&repo=popcorn_time" />
 </a>  
 
 <!---
