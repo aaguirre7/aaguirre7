@@ -5,7 +5,7 @@
 
 
 
-## 👋 Hi, I’m @aaguirre7   - 👀 DevOPs Engineer  - 🌱 Full Stack Dev - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)[3]
+## 👋 Hi, I’m @aaguirre7   - 👀 DevOPs Engineer  - 🌱 Full Stack Dev - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square [3])
 
 
 
