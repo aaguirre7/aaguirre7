@@ -3,14 +3,11 @@
 
 </a>
 
-<br>
 
-<a alaign="center">
-##- 👋 Hi, I’m @aaguirre7
-##- 👀 DevOPs Engineer
-##- 🌱 Full Stack Dev
-</a>
-<br>
+
+## 👋 Hi, I’m @aaguirre7   - 👀 DevOPs Engineer  - 🌱 Full Stack Dev
+
+
 
 <a href="https://github.com/aaguirre7/aaguirre7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaguirre7&theme=dark" />
