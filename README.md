@@ -2,13 +2,14 @@
 <img align="center"src="./img/pixels-neon.gif" width="120%">
 
 </a>
+<br>
 <a alaign="center">
 - 👋 Hi, I’m @aaguirre7
 - 👀 DevOPs Engineer
 - 🌱 Full Stack Dev
 </a>
-
-<a>
+<br>
+<a align="center">
 <img align="center" height="120%" src="https://github-readme-stats.vercel.app/api/?username=aaguirre7&theme=dark&hide=contribs&show_icons=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaguirre7&theme=dark"/> 
 </a>
