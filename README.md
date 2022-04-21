@@ -9,7 +9,7 @@
 </a>
 
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=aaguirre7&theme=dark&hide=contribs&show_icons=true"/>
+<img align="center" height="120%" src="https://github-readme-stats.vercel.app/api/?username=aaguirre7&theme=dark&hide=contribs&show_icons=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaguirre7&theme=dark"/> 
 </a>
 
