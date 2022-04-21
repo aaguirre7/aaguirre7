@@ -2,12 +2,13 @@
 <img align="center"src="./img/pixels-neon.gif" width="120%">
 
 </a>
+
 <br>
 
 <a alaign="center">
-- 👋 Hi, I’m @aaguirre7
-- 👀 DevOPs Engineer
-- 🌱 Full Stack Dev
+##- 👋 Hi, I’m @aaguirre7
+##- 👀 DevOPs Engineer
+##- 🌱 Full Stack Dev
 </a>
 <br>
 
@@ -15,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaguirre7&theme=dark" />
 </a>
 <a href="https://github.com/aaguirre7/aaguirre7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaguirre7&show_icons=true&line_height=50&count_private=true&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaguirre7&show_icons=true&line_height=40&count_private=true&theme=dark"/>
 </a>
 
 <a href="https://github.com/aaguirre7/my_crypto">
