@@ -7,6 +7,8 @@
 
 ## 👋 Hi, I’m @aaguirre7   - 👀 DevOPs Engineer  - 🌱 Full Stack Dev
 
+[![LinkedIn][3.2]][3] 
+
 
 
 <a href="https://github.com/aaguirre7/aaguirre7">
@@ -29,3 +31,20 @@
 aaguirre7/aaguirre7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[2]: https://github.com/aaguirre7
+[3]: https://www.linkedin.com/in/abraham-aguirre-1b237293/
