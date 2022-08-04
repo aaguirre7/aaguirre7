@@ -1,5 +1,5 @@
 <a>
-<img align="center"src="./img/pixels-neon.gif" width="120%">
+<img align="center"src="./img/pixels-neon.gif" width="100%">
 
 </a>
 
